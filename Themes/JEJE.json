@@ -1,0 +1,55 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "jeje",
+  "LANGUAGE": "Arabi",
+  "LANGCODE": "ar",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*البوت محدث بالفعل*",
+          "NEW_UPDATE": "*يوجد تحديث جديد للبوت*\n\n*تم تحديث:*\n",
+          "UPDATED_LOCAL": "*تم التحديث*"
+      },
+      "global": {
+          "botName": " Powered by jeje",
+          "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+          "greet2" : "",
+          "pic1": "https://i.imgur.com/zKyTfA2_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+          "pic2": "https://i.imgur.com/V9Zrw5F_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+          "pic3": "https://i.imgur.com/aDRr81o_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+          "pic4": "https://i.imgur.com/FHnLovE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+          "pic5": "https://i.imgur.com/PTngLqT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+          "pic6": "https://i.imgur.com/4oRRo6N_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+          "pic7": "https://i.imgur.com/b9Dv5vo_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+           "greet" : "",
+         "dotbody" : "السلام عليكم",
+          "promote": "تمت الترقية",
+          "pmallow": "السلام عليكم ، مطوري مشغول ، اترك رسالتك وساحولها له",
+          "pmblock": "بلوك*\n\n تم تبليكك بسبب السبام",
+          "pmwarn": "السلام عليكم \nلا تسوي سبام لتفادي البلوك _لديك ${checkPermit.times} من الانذارات_",
+          "permited": "السلام عليكم ${tname}*\n\nتم اعطائك الاذن لاستخدام البوت فالخاص", 
+          "revoked" : "*السلام عليكم ${tname}*\n\nتم منعك من استخدام البوت فالخاص",
+          "demote": "تم إزالة اشرافه",
+          "antlink": "ممنوع نشر روابط، اوت",
+          "session": "\n*لا تشارك الملف او المود مع احد*",
+          "mention": " منشن شخص ",
+          "title": "B K 9 💙",
+          "footer": "B K 9 💙",
+          "by": "*جرجير*",
+          "chat_desc": "الخيارات المتوفرة* : 1. غلق القروب\n2. فتح القروب\n3. أرشيف\n4. إلغاء الأرشفة\n5. قراءة\n6. غير مقروء\n7. حذف",
+          "success": "تم",
+          "dot": "هل تقصد *help?*",
+          "couple_male": "*لا أريد أن أموت وحيدا*",
+          "couple_female": "*لا أريد أن أموت وحيدا*",
+          "admin": "هذا الامر خاص بالمشرفين",
+          "botAdmin": "حطني مشرف اول",
+          "owner": " هذا الامر خاص بالمطور ",
+          "group": "هذا الامر خاص بالقروب",
+          "private": " هذا الامر خاص بالخاص",
+          "bot": "هذا الامر خاص بالبوت",
+          "wait": "يتحمل ..." 
+      },
+      "error": {
+          "text": "*يوجد خطأ*"
+      }
+  }
+}
